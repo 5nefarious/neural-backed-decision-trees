@@ -1,5 +1,5 @@
 pytorchcv
-torch==1.4.0
+torch
 torchvision
 nltk
 scikit-learn
